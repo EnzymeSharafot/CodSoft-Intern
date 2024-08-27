@@ -154,7 +154,7 @@ void signselection(char &sign_1, char &sign_2){
     cout<<endl;
     cout<<"Who Wil Select Sign First ?"<<endl;
     cout<<"Enter '1' For Player_1"<<endl;
-    cout<<"Enter '2' For Player_1"<<endl;
+    cout<<"Enter '2' For Player_2"<<endl;
     cout<<"Enter '3' For Random Selection"<<endl;
     cout<<"\n";
     cout<<"Enter Your Choice : ";
@@ -218,6 +218,7 @@ int main(){
             cout<<"Thanks For Playing.........."<<endl;
             cout<<"\n";
             cout<<"Ending The Game....."<<endl;
+            flag = false;
         }
       } 
     }
