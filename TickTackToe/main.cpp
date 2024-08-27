@@ -219,6 +219,7 @@ int main(){
             cout<<"\n";
             cout<<"Ending The Game....."<<endl;
             flag = false;
+            break;
         }
       } 
     }
