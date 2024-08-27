@@ -48,7 +48,7 @@ class TickTackToe{
                if(player_1==1){
                    cout<<"Enter Row and Column To Put "<<sign_1<<" For Player_1 "<<endl;
                    int a,b;
-                   cout<<"Between 0 to 2 !!!";
+                   cout<<"Between 0 to 2 !!!\n";
                    cout<<"Enter Row : ";cin>>a;
                    cout<<"Enter Column : ";cin>>b;
                    while((a<0||a>2)||(b<0||b>2)||grid[a][b]!=' '){
@@ -69,7 +69,7 @@ class TickTackToe{
                else{
                    cout<<"Enter Row and Column To Put "<<sign_2<<" For Player_2 "<<endl;
                    int a,b;
-                   cout<<"Between 0 to 2 !!!";
+                   cout<<"Between 0 to 2 !!!\n";
                    cout<<"Enter Row : ";cin>>a;
                    cout<<"Enter Column : ";cin>>b;
                    while((a<0||a>2)||(b<0||b>2)||grid[a][b]!=' '){
