@@ -2,7 +2,7 @@
 Welcome to my project repository! This repository includes several projects showcasing different functionalities and programming skills. Below you'll find a brief overview of each project, including what it does, how to run it, and any additional notes.
 
 # Projects:
-1. Number Guessing Game
+1.Number Guessing Game
 A simple console-based number guessing game where the player tries to guess a randomly generated number between 1 and 1000. The game provides feedback on
 whether the guess is too high or too low and tracks the number of turns.
 
@@ -17,7 +17,7 @@ How to Run:
 -->Compile the code: g++ -o number_guess number_guess.cpp.
 -->Run the executable: ./number_guess.
 
-2. Calculator
+2.Calculator
 A console-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The user selects the
 operation and inputs the numbers.
 
@@ -32,7 +32,7 @@ How to Run:
 -->Compile the code: g++ -o calculator calculator.cpp.
 -->Run the executable: ./calculator.
 
-3. Tic-Tac-Toe
+3.Tic-Tac-Toe
 A console-based Tic-Tac-Toe game where two players can play against each other. The game includes features for setting player order, selecting signs, and
 checking the game result.
 
@@ -47,7 +47,7 @@ How to Run:
 -->Compile the code: g++ -o tick_tack_toe tick_tack_toe.cpp.
 -->Run the executable: ./tick_tack_toe.
 
-4. To-Do List
+4.To-Do List
 A console-based to-do list application allowing users to add, view, edit, mark as completed, and remove tasks. Tasks can be prioritized based on their
 importance.
 
