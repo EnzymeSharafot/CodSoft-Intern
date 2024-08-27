@@ -2,7 +2,7 @@
 Welcome to my project repository! This repository includes several projects showcasing different functionalities and programming skills. Below you'll find a brief overview of each project, including what it does, how to run it, and any additional notes.
 
 # Projects:
-1.Number Guessing Game
+# Number Guessing Game :
 A simple console-based number guessing game where the player tries to guess a randomly generated number between 1 and 1000. The game provides feedback on
 whether the guess is too high or too low and tracks the number of turns.
 
@@ -12,12 +12,12 @@ Features:
 3.Replay functionality.
 
 How to Run:
---> Clone the repository.
--->Navigate to the NumberGuessGame directory.
--->Compile the code: g++ -o number_guess number_guess.cpp.
--->Run the executable: ./number_guess.
+1. Clone the repository.
+2. Navigate to the NumberGuessGame directory.
+3. Compile the code: g++ -o number_guess number_guess.cpp.
+4. Run the executable: ./number_guess.
 
-2.Calculator
+# Calculator :
 A console-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The user selects the
 operation and inputs the numbers.
 
@@ -27,12 +27,12 @@ Features:
 3. Exit option.
 
 How to Run:
--->Clone the repository.
--->Navigate to the Calculator directory.
--->Compile the code: g++ -o calculator calculator.cpp.
--->Run the executable: ./calculator.
+1. Clone the repository.
+2. Navigate to the Calculator directory.
+3. Compile the code: g++ -o calculator calculator.cpp.
+4. Run the executable: ./calculator.
 
-3.Tic-Tac-Toe
+# Tic-Tac-Toe
 A console-based Tic-Tac-Toe game where two players can play against each other. The game includes features for setting player order, selecting signs, and
 checking the game result.
 
@@ -42,12 +42,12 @@ Features:
 3. Game result determination.
 
 How to Run:
--->Clone the repository.
--->Navigate to the TicTacToe directory.
--->Compile the code: g++ -o tick_tack_toe tick_tack_toe.cpp.
--->Run the executable: ./tick_tack_toe.
+1. Clone the repository.
+2. Navigate to the TicTacToe directory.
+3. Compile the code: g++ -o tick_tack_toe tick_tack_toe.cpp.
+4. Run the executable: ./tick_tack_toe.
 
-4.To-Do List
+# To-Do List
 A console-based to-do list application allowing users to add, view, edit, mark as completed, and remove tasks. Tasks can be prioritized based on their
 importance.
 
@@ -58,10 +58,10 @@ Features:
 4. Prioritize tasks.
 
 How to Run:
--->Clone the repository.
--->Navigate to the ToDoList directory.
--->Compile the code: g++ -o todo_list todo_list.cpp.
--->Run the executable: ./todo_list.
+1. Clone the repository.
+2. Navigate to the ToDoList directory.
+3. Compile the code: g++ -o todo_list todo_list.cpp.
+4. Run the executable: ./todo_list.
 
 
 
