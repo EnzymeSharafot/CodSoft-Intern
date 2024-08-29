@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//Calculator
+
 class Calculator {
 private:
     double input_1, input_2;
