@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//Number Guessing Game
+
 class NumberGuess{
     private:
       string user_name;
